@@ -60,9 +60,9 @@ The app stores data on to the server in real-time to ensure that all driver info
 - The login screen allowing drivers to quickly log in using their **phone number**. 
 - The app uses **OTP verification** to ensure the security of the login process. 
 <div align="center">
-    <img src="screens/Login/landing.jpg" alt="Landing Page" width="120" margin="5px"/>
-    <img src="screens/Login/login.jpg" alt="Login Screen" width="120" margin="5px"/>
-    <img src="screens/Login/otp.jpg" alt="Login Screen 2" width="120" margin="5px"/>
+    <img src="screens/Login/landing.jpg" alt="Landing Page" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/Login/login.jpg" alt="Login Screen" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/Login/otp.jpg" alt="Login Screen 2" width="30%" style="max-width:150px;" margin="10px"/>
 </div>
 
 ### Navigation
@@ -70,14 +70,14 @@ The app stores data on to the server in real-time to ensure that all driver info
 - The in-app navigation provides not only the **route** but also the estimated time, distance, and fare. 
 - It also allows the driver to continue navigating from **another map** application if needed.
 <div align="center">
-    <img src="screens/Navigation/map.jpg" alt="Navigation Screen" width="120" margin="5px"/>
-    <img src="screens/Navigation/place_picker.jpg" alt="Navigation Screen 1" width="120" margin="5px"/>
-    <img src="screens/Navigation/estimate.jpg" alt="Navigation Screen 2" width="120" margin="5px"/>
+    <img src="screens/Navigation/map.jpg" alt="Navigation Screen" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/Navigation/place_picker.jpg" alt="Navigation Screen 1" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/Navigation/estimate.jpg" alt="Navigation Screen 2" width="30%" style="max-width:150px;" margin="10px"/>
 </div>
 <div align="center">
-    <img src="screens/Navigation/start.jpg" alt="Navigation Screen 3" width="120" margin="5px"/>
-    <img src="screens/Navigation/arrived.jpg" alt="Navigation Screen 4" width="120" margin="5px"/>
-    <img src="screens/Navigation/app_receipt.jpg" alt="Navigation Screen 5" width="120" margin="5px"/>
+    <img src="screens/Navigation/start.jpg" alt="Navigation Screen 3" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/Navigation/arrived.jpg" alt="Navigation Screen 4" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/Navigation/app_receipt.jpg" alt="Navigation Screen 5" width="30%" style="max-width:150px;" margin="10px"/>
 </div>
 
 ### History
@@ -85,16 +85,16 @@ The app stores data on to the server in real-time to ensure that all driver info
 - The app provides **interactive graphs** to visualize earnings over time, and drivers can filter their history by time period.
 - The app also allows drivers to print older **receipts for any ride**, and tax receipts for any period of time.
 <div align="center">
-    <img src="screens/History/history.jpg" alt="History Screen" width="120" margin="5px"/>
-    <img src="screens/History/history2.jpg" alt="History Screen 2" width="120" margin="5px"/>
-    <img src="screens/History/annual_receipt.jpg" alt="Receipt" width="120" margin="5px"/>
+    <img src="screens/History/history.jpg" alt="History Screen" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/History/history2.jpg" alt="History Screen 2" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/History/annual_receipt.jpg" alt="Receipt" width="30%" style="max-width:150px;" margin="10px"/>
 </div>
 
 ### Profile
 - The profile screen allows drivers to manage their **personal information**, vehicle details, and payment methods.
 - Drivers can **update their rates** for different times of day and different days of the week.
 <div align="center">
-    <img src="screens/Profile/profile.jpg" alt="Profile Screen" width="120" margin="5px"/>
-    <img src="screens/Profile/price.jpg" alt="Profile Screen 2" width="120" margin="5px"/>
-    <img src="screens/Profile/edit_profile.jpg" alt="Profile Screen 3" width="120" margin="5px"/>
+    <img src="screens/Profile/profile.jpg" alt="Profile Screen" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/Profile/price.jpg" alt="Profile Screen 2" width="30%" style="max-width:150px;" margin="10px"/>
+    <img src="screens/Profile/edit_profile.jpg" alt="Profile Screen 3" width="30%" style="max-width:150px;" margin="10px"/>
 </div>
