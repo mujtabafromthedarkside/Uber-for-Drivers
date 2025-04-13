@@ -30,30 +30,6 @@ This is a mobile application for drivers to digitalize their work, allowing them
 - **Maps**: Google Maps API
 - **OTP Service**: Twilio
 
-## User Experience
-The app is designed to be user-friendly and intuitive, with a focus on providing drivers with the information they need quickly and efficiently. The interface is clean and modern, with a consistent color scheme and typography. This project taught me a lot about how to think about design from a user's perspective. Here are some examples of what I mean:
-
-### Snappy Interface
-The app is designed to be snappy and responsive, allowing drivers to navigate through the app quickly. It's not easy to do in an application that's constantly talking to the server. This is made possible by **storing** a copy of the fetched data **locally** and **syncing** data with the server **asynchronously**.
-<div align="center">
-    <img src="GIFs/SnappyUI_Clip_Matkameter.gif" alt="Snappy interface GIF" width="200" margin="10px"/>
-</div>
-
-### Instant Language Change
-The app allows drivers to **change the language instantly** without needing to restart. It currently supports Finnish and English, but can be easily extended to support additional languages in the future. Personally, I was very impressed with how this turned out. I don't think I have ever seen a faster and more convenient language change option.
-<div align="center">
-    <img src="GIFs/Language_Clip_Matkameter.gif" alt="Language change GIF" width="200" margin="10px"/>
-</div>
-
-### Intuitive History Graphs
-The app provides a visual representation of the driver's earnings over time. The graphs are **interactive**, allowing drivers to tap on specific points to see detailed information about their earnings for that period. This was the most fun page to implement and I think it's pretty dope.
-<div align="center">
-    <img src="GIFs/History_Clip_Matkameter.gif" alt="History screen GIF" width="200" margin="10px"/>
-</div>
-
-### Real-Time Sync
-The app stores data on to the server in real-time to ensure that all driver information — such as ride logs, profile updates, and session states - is instantly saved and synced across sessions. Even if the app is closed, reopened, or the phone temporarily goes offline during a ride, no data is lost and the app resumes itself later without a flaw.
-
 ## Screens
 
 ### Login
@@ -98,3 +74,27 @@ The app stores data on to the server in real-time to ensure that all driver info
     <img src="screens/Profile/price.jpg" alt="Profile Screen 2" width="30%" style="max-width:150px;" margin="10px"/>
     <img src="screens/Profile/edit_profile.jpg" alt="Profile Screen 3" width="30%" style="max-width:150px;" margin="10px"/>
 </div>
+
+## User Experience
+The app is designed to be user-friendly and intuitive, with a focus on providing drivers with the information they need quickly and efficiently. The interface is clean and modern, with a consistent color scheme and typography. This project taught me a lot about how to think about design from a user's perspective. Here are some examples of what I mean:
+
+### Snappy Interface
+The app is designed to be snappy and responsive, allowing drivers to navigate through the app quickly. It's not easy to do in an application that's constantly talking to the server. This is made possible by **storing** a copy of the fetched data **locally** and **syncing** data with the server **asynchronously**.
+<div align="center">
+    <img src="GIFs/SnappyUI_Clip_Matkameter.gif" alt="Snappy interface GIF" width="200" margin="10px"/>
+</div>
+
+### Instant Language Change
+The app allows drivers to **change the language instantly** without needing to restart. It currently supports Finnish and English, but can be easily extended to support additional languages in the future. Personally, I was very impressed with how this turned out. I don't think I have ever seen a faster and more convenient language change option.
+<div align="center">
+    <img src="GIFs/Language_Clip_Matkameter.gif" alt="Language change GIF" width="200" margin="10px"/>
+</div>
+
+### Intuitive History Graphs
+The app provides a visual representation of the driver's earnings over time. The graphs are **interactive**, allowing drivers to tap on specific points to see detailed information about their earnings for that period. This was the most fun page to implement and I think it's pretty dope.
+<div align="center">
+    <img src="GIFs/History_Clip_Matkameter.gif" alt="History screen GIF" width="200" margin="10px"/>
+</div>
+
+### Real-Time Sync
+The app stores data on to the server in real-time to ensure that all driver information — such as ride logs, profile updates, and session states - is instantly saved and synced across sessions. Even if the app is closed, reopened, or the phone temporarily goes offline during a ride, no data is lost and the app resumes itself later without a flaw.
